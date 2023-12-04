@@ -75,6 +75,7 @@ plt.legend()
 plt.show()
 '''
 
+
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.stats import norm
@@ -113,7 +114,6 @@ for value, prob in zip(values, probabilitas):
 plt.legend()
 
 plt.show()
-
 
 
 
