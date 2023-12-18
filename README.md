@@ -1,3 +1,7 @@
+# Hi there 👋, I'm Calvin! 
+
+Currently I am an informatics engineering student at Muhammadiyah University of Malang. I have a passion for exploring new aspects of programming. I am very interested in learning Web development, Cloud computing, and Cybersecurity.
+
 <p align="left">
 <a href="https://github.com/calvinkrisdiant">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=calvinkrisdiant&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
